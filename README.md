@@ -10,4 +10,5 @@ My Public Infos
 ## Contact informations
 
 [Wang Che@XJTU](https://gr.xjtu.edu.cn/en/web/wangche)
+
 wangche0731@outlook.com
