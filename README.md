@@ -1,5 +1,6 @@
 # Public-Info
-My Public Infos
+My Public Infos 
+[Wang Che](https://gr.xjtu.edu.cn/en/web/wangche)
 
 ## My codes & project
 
